@@ -1,6 +1,6 @@
 # Terms of Service for Plutara_AI
 
-Last Updated: March 19, 2024
+Last Updated: March 25, 2025
 
 ## 1. Introduction
 
@@ -53,4 +53,4 @@ For questions about these terms, contact: reid.j.morris@gmail.com
 
 ## 10. Governing Law
 
-These terms are governed by applicable laws of United Kingdom. 
+These terms are governed by applicable laws of Australia. 
